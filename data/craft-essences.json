@@ -1,0 +1,219 @@
+[
+  {
+    "id": "ce_%E6%A0%BC%E5%85%B0%C2%B7%E5%8D%A1%E7%93%A6%E6%B4%9B",
+    "name": "格兰·卡瓦洛",
+    "cost": 12,
+    "bonusPercent": 5,
+    "conditions": [],
+    "imgFile": "格兰·卡瓦洛",
+    "imageUrl": "/img/ces/ce_格兰_卡瓦洛.png"
+  },
+  {
+    "id": "ce_%E8%AE%B0%E5%BF%86%E7%9A%84%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86",
+    "name": "记忆的大图书馆",
+    "cost": 12,
+    "bonusPercent": 20,
+    "conditions": [
+      [
+        "中立"
+      ]
+    ],
+    "imgFile": "记忆的大图书馆",
+    "imageUrl": "/img/ces/ce_记忆的大图书馆.png"
+  },
+  {
+    "id": "ce_%E8%BF%A6%E5%8B%92%E5%BA%95%E6%99%9A%E9%A4%90%E6%97%B6%E5%85%89",
+    "name": "迦勒底晚餐时光",
+    "cost": 12,
+    "bonusPercent": 5,
+    "conditions": [],
+    "imgFile": "迦勒底晚餐时光",
+    "imageUrl": "/img/ces/ce_迦勒底晚餐时光.png"
+  },
+  {
+    "id": "ce_%E8%BF%A6%E5%8B%92%E5%BA%95%E5%8D%88%E9%A4%90%E6%97%B6%E5%85%89",
+    "name": "迦勒底午餐时光",
+    "cost": 12,
+    "bonusPercent": 10,
+    "conditions": [],
+    "imgFile": "",
+    "imageUrl": "/img/ces/ce_迦勒底午餐时光.png"
+  },
+  {
+    "id": "ce_%E8%BF%A6%E5%8B%92%E5%BA%95%E5%8D%88%E8%8C%B6%E6%97%B6%E5%85%89",
+    "name": "迦勒底午茶时光",
+    "cost": 12,
+    "bonusPercent": 5,
+    "conditions": [],
+    "imgFile": "迦勒底午茶时光",
+    "imageUrl": "/img/ces/ce_迦勒底午茶时光.png"
+  },
+  {
+    "id": "ce_%E8%BF%A6%E5%8B%92%E5%BA%95%E4%B9%8B%E6%99%A8",
+    "name": "迦勒底之晨",
+    "cost": 12,
+    "bonusPercent": 20,
+    "conditions": [
+      [
+        "活在当下的人类"
+      ]
+    ],
+    "imgFile": "迦勒底之晨",
+    "imageUrl": "/img/ces/ce_迦勒底之晨.png"
+  },
+  {
+    "id": "ce_%E8%BF%A6%E5%8B%92%E5%BA%95%E4%B9%8B%E4%BA%BA",
+    "name": "迦勒底之人",
+    "cost": 12,
+    "bonusPercent": 20,
+    "conditions": [
+      [
+        "混沌",
+        "七骑士"
+      ]
+    ],
+    "imgFile": "迦勒底之人",
+    "imageUrl": "/img/ces/ce_迦勒底之人.png"
+  },
+  {
+    "id": "ce_%E6%A3%80%E6%9F%A5%E6%8A%A5%E5%91%8A",
+    "name": "检查报告",
+    "cost": 12,
+    "bonusPercent": 20,
+    "conditions": [
+      [
+        "秩序",
+        "善"
+      ]
+    ],
+    "imgFile": "检查报告",
+    "imageUrl": "/img/ces/ce_检查报告.png"
+  },
+  {
+    "id": "ce_%E6%9D%A5%E8%87%AANFF%E7%9A%84%E7%88%B1",
+    "name": "来自NFF的爱",
+    "cost": 12,
+    "bonusPercent": 20,
+    "conditions": [
+      [
+        "兽科"
+      ]
+    ],
+    "imgFile": "来自NFF的爱",
+    "imageUrl": "/img/ces/ce_来自NFF的爱.png"
+  },
+  {
+    "id": "ce_%E7%8B%BC%E7%9A%84%E6%95%85%E4%BA%8B",
+    "name": "狼的故事",
+    "cost": 12,
+    "bonusPercent": 5,
+    "conditions": [],
+    "imgFile": "狼的故事",
+    "imageUrl": "/img/ces/ce_狼的故事.png"
+  },
+  {
+    "id": "ce_%E6%A2%A6%E6%83%B3%E8%A1%A3%E6%A9%B1",
+    "name": "梦想衣橱",
+    "cost": 12,
+    "bonusPercent": 5,
+    "conditions": [],
+    "imgFile": "梦想衣橱",
+    "imageUrl": "/img/ces/ce_梦想衣橱.png"
+  },
+  {
+    "id": "ce_%E7%A7%98%E5%AF%86%E4%BB%BB%E5%8A%A1",
+    "name": "秘密任务",
+    "cost": 12,
+    "bonusPercent": 20,
+    "conditions": [
+      [
+        "騎兵"
+      ]
+    ],
+    "imgFile": "秘密任务",
+    "imageUrl": "/img/ces/ce_秘密任务.png"
+  },
+  {
+    "id": "ce_%E5%90%8D%E4%BE%A6%E6%8E%A2%E8%8A%99%E5%B0%94%E6%91%A9%E6%96%AF",
+    "name": "名侦探芙尔摩斯",
+    "cost": 12,
+    "bonusPercent": 5,
+    "conditions": [],
+    "imgFile": "名侦探芙尔摩斯",
+    "imageUrl": "/img/ces/ce_名侦探芙尔摩斯.png"
+  },
+  {
+    "id": "ce_%E6%89%8B%E7%A8%BF%E4%B9%8B%E7%BF%BC",
+    "name": "手稿之翼",
+    "cost": 12,
+    "bonusPercent": 20,
+    "conditions": [
+      [
+        "術師"
+      ]
+    ],
+    "imgFile": "手稿之翼",
+    "imageUrl": "/img/ces/ce_手稿之翼.png"
+  },
+  {
+    "id": "ce_%E6%97%A0%E9%9B%AA%E4%B9%8B%E5%A4%9C%E8%BF%87%E5%90%8E",
+    "name": "无雪之夜过后",
+    "cost": 12,
+    "bonusPercent": 5,
+    "conditions": [],
+    "imgFile": "无雪之夜过后",
+    "imageUrl": "/img/ces/ce_无雪之夜过后.png"
+  },
+  {
+    "id": "ce_%E7%8C%AE%E7%BB%99%E5%B9%B8%E7%A6%8F%E7%9A%84%E6%96%B0%E5%A8%98",
+    "name": "献给幸福的新娘",
+    "cost": 12,
+    "bonusPercent": 20,
+    "conditions": [
+      [
+        "秩序",
+        "女性"
+      ]
+    ],
+    "imgFile": "献给幸福的新娘",
+    "imageUrl": "/img/ces/ce_献给幸福的新娘.png"
+  },
+  {
+    "id": "ce_%E5%BC%82%E6%98%9F%E4%B9%8B%E7%A5%9E",
+    "name": "异星之神",
+    "cost": 12,
+    "bonusPercent": 20,
+    "conditions": [
+      [
+        "星"
+      ],
+      [
+        "恶"
+      ]
+    ],
+    "imgFile": "异星之神",
+    "imageUrl": "/img/ces/ce_异星之神.png"
+  },
+  {
+    "id": "ce_%E8%BF%8E%E5%90%91%E7%A2%A7%E7%A9%BA",
+    "name": "迎向碧空",
+    "cost": 12,
+    "bonusPercent": 5,
+    "conditions": [],
+    "imgFile": "迎向碧空",
+    "imageUrl": "/img/ces/ce_迎向碧空.png"
+  },
+  {
+    "id": "ce_%E8%87%B3%E8%AF%9A%E7%9A%84%E4%B8%80%E9%92%88",
+    "name": "至诚的一针",
+    "cost": 12,
+    "bonusPercent": 20,
+    "conditions": [
+      [
+        "持有灵衣之人"
+      ]
+    ],
+    "imgFile": "至诚的一针",
+    "imageUrl": "/img/ces/ce_至诚的一针.png"
+  }
+]

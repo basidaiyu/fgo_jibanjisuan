@@ -1,0 +1,77 @@
+:root {
+  --text: #6b7280;
+  --text-h: #111827;
+  --bg: #ffffff;
+  --border: #e5e7eb;
+  --code-bg: #f9fafb;
+  --accent: #7c3aed;
+  --accent-bg: rgba(124, 58, 237, 0.08);
+  --accent-border: rgba(124, 58, 237, 0.4);
+  --match-bg: #ecfdf5;
+  --match-border: #6ee7b7;
+  --match-text: #065f46;
+
+  --sans: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --mono: ui-monospace, Consolas, monospace;
+
+  font: 15px/1.5 var(--sans);
+  color-scheme: light dark;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: #9ca3af;
+    --text-h: #f3f4f6;
+    --bg: #1a1b1e;
+    --border: #2d2f34;
+    --code-bg: #222327;
+    --accent: #a78bfa;
+    --accent-bg: rgba(167, 139, 250, 0.12);
+    --accent-border: rgba(167, 139, 250, 0.4);
+    --match-bg: rgba(52, 211, 153, 0.15);
+    --match-border: rgba(52, 211, 153, 0.4);
+    --match-text: #6ee7b7;
+  }
+
+  .tag-match {
+    background: var(--match-bg);
+    border-color: var(--match-border);
+    color: var(--match-text);
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+}
+
+h1, h2, h3 {
+  font-family: var(--sans);
+  color: var(--text-h);
+}
+
+p {
+  margin: 0;
+}
+
+button {
+  font-family: var(--sans);
+}
+
+input, select {
+  font-family: var(--sans);
+}
