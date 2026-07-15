@@ -12,10 +12,6 @@ dist
 dist-ssr
 *.local
 
-# Servant/CE images (too large, use `npm run scrape:images` to download)
-public/img/servants/
-public/img/ces/
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
